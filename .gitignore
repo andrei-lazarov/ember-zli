@@ -8,7 +8,7 @@
 /coverage
 oclif.manifest.json
 *.tsbuildinfo
-
+/logs
 
 yarn.lock
 pnpm-lock.yaml
